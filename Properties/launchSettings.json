@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestExcercisesPLab": {
+      "commandName": "Project",
+      "commandLineArgs": "7 6"
+    }
+  }
+}
