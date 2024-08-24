@@ -45,7 +45,7 @@ class Program
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Ошибка: {ex}");
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
     }
 
