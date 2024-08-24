@@ -2,7 +2,7 @@
   "profiles": {
     "TestExcercisesPLab": {
       "commandName": "Project",
-      "commandLineArgs": "7 6"
+      "commandLineArgs": "task4\\numbers.txt"
     }
   }
 }

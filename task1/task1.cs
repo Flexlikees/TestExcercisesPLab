@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        if (args.Length < 2)
+        if (args.Length != 2)
         {
             Console.WriteLine("Ошибка: задайте все необходимые аргументы командной строки (n, m)\n");
             Console.ForegroundColor = ConsoleColor.Green;
